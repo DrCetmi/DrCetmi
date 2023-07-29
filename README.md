@@ -1,3 +1,4 @@
+![profil](https://github.com/DrCetmi/mat-web-dev/blob/main/8%20-%20Project/img/skills.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Durmus Cetmi</h1>
 <h3 align="center">A passionate Fullstack-developer from Germany</h3>
 
