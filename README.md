@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **drcetmi@gmail.com**
 
-- 📄 Know about my experiences [https://drcetmi.github.io](https://drcetmi.github.io)
+- 📄 Know about my experiences [https://drcetmi.com](https://drcetmi.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DrCetmi&label=Profile%20views&color=0e75b6&style=flat" alt="DrCetmi" /> </p>
 
